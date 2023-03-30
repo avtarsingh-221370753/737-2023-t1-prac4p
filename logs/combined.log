@@ -1,0 +1,7 @@
+{"level":"info","message":"New Addition operation requested: 1 Addition 10","service":"calculator-microservice"}
+{"level":"info","message":"New Subtraction operation requested: 10 Subtraction 8","service":"calculator-microservice"}
+{"level":"info","message":"New Multliplication operation requested: 10 Multliplication 8","service":"calculator-microservice"}
+{"level":"info","message":"New Division operation requested: 10 Division 8","service":"calculator-microservice"}
+{"level":"info","message":"New Division operation requested: 10 Division 0","service":"calculator-microservice"}
+{"level":"info","message":"New Addition operation requested: 10 Addition 0","service":"calculator-microservice"}
+{"level":"info","message":"New Addition operation requested: 10 Addition NaN","service":"calculator-microservice"}
